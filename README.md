@@ -14,6 +14,10 @@ For Professor Ratan Dey.
 | Cornell University | January 14, 2027 | Not Requested by Program Yet |
 | University of Pennsylvania | January 14, 2027 | Not Requested by Program Yet |
 
+## What I Am Applying For and Why
+
+I am applying to master's programs to build on my electrical engineering preparation, including the microarchitecture work I did in your course and Processor Design. I want to understand how microcontrollers in embedded devices use processing and memory resources to acquire and analyze data. Further study in this area, alongside control theory and digital signal processing, would support my goal of starting my own company that develops neural recording and analysis tools.
+
 ## Academic Performance
 
 ### My Courses with You
@@ -112,7 +116,3 @@ For Professor Ratan Dey.
 - In Microcontroller, I created sixteen waveform figures explaining processor mechanisms, checked their captions against simulated behavior, and recorded each figure's source, test configuration, and tool versions.
   - The figures make hazards, traps, interrupts, and ownership changes inspectable at particular clock edges, linking explanations to actual signal behavior.
   - The provenance records provide the sources, configurations, and tool identities needed to repeat selected observations and check each explanation against its recorded run.
-
-## What I Am Applying For and Why
-
-I am applying to master's programs to build on my electrical engineering preparation, including the microarchitecture work I did in your course and Processor Design. I want to understand how microcontrollers in embedded devices use processing and memory resources to acquire and analyze data. Further study in this area, alongside control theory and digital signal processing, would support my goal of starting my own company that develops neural recording and analysis tools.
